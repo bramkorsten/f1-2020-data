@@ -10,7 +10,7 @@
         "introCopy": [
           {
             "type": "text",
-            "copy": "<b>We zijn allemaal opgewarmd.</b>"
+            "copy": "<b>We zijn allemaal<br>opgewarmd.</b>"
           },
           {
             "type": "chat",
