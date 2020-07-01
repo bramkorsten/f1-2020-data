@@ -7,45 +7,11 @@
       "season": 2020,
       "round": 1,
       "copy": {
-        "introCopy": [
-          {
-            "type": "text",
-            "copy": "<b>We zijn allemaal<br>opgewarmd.</b>"
-          },
-          {
-            "type": "chat",
-            "copy": "<emoji_mountain><emoji_austria><emoji_chequered-flag>"
-          },
-          {
-            "type": "chat",
-            "copy": "<emoji_chequered-flag><emoji_racing-car><emoji_keycap-3><emoji_keycap-3><emoji_wind><emoji_wind>"
-          }
-        ],
-        "headline": [
-          {
-            "type": "text",
-            "copy": "Kijk de GP van<br>Oosterijk"
-          }
-        ],
-        "copy": [
-          {
-            "type": "text",
-            "copy": "Zet sport aan bij <b>KPN.</b>"
-          }
-        ],
-        "ctaCopy": {
-          "copy": "Kies sportpakket",
-          "fontSize": "18px",
-          "left": "15px",
-          "top": "198px"
-        },
-        "timerSettings": {
-          "prefix": "<emoji_chequered-flag> Nog ",
-          "suffix": "",
-          "fontSize": "16",
-          "top": "15",
-          "left": "100"
-        }
+        "introCopy": [],
+        "headline": [],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
       },
       "raceName": "GP van Oosterijk",
       "calendar": [
