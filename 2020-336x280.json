@@ -1,0 +1,278 @@
+{
+  "season": 2020,
+  "rounds": 8,
+  "lastUpdated": "2020-06-29T08:45:17+02:00",
+  "raceData": [
+    {
+      "season": 2020,
+      "round": 1,
+      "copy": {
+        "introCopy": [],
+        "headline": [],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
+      "raceName": "GP van Oosterijk",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-03T11:00:00+02:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-03T15:00:00+02:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-04T12:00:00+02:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-07-04T15:00:00+02:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-07-05T15:10:00+02:00",
+          "name": "Race"
+        }
+      ],
+      "country": "Oostenrijk"
+    },
+    {
+      "season": 2020,
+      "round": 2,
+      "raceName": "GP van Steiermark",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-10T11:00:00+02:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-10T15:00:00+02:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-11T12:00:00+02:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-07-11T15:00:00+02:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-07-12T15:10:00+02:00",
+          "name": "Race"
+        }
+      ],
+      "country": "Oostenrijk"
+    },
+    {
+      "season": 2020,
+      "round": 3,
+      "raceName": "GP van Hongarije",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-17T11:00:00+02:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-17T15:00:00+02:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-18T12:00:00+02:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-07-18T15:00:00+02:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-07-19T15:10:00+02:00",
+          "name": "Race"
+        }
+      ],
+      "country": "Hongarije"
+    },
+    {
+      "season": 2020,
+      "round": 4,
+      "raceName": "GP van Groot-Brittannië",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-31T11:00:00+01:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-07-31T15:00:00+01:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-01T12:00:00+01:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-08-01T15:00:00+01:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-08-02T15:10:00+01:00",
+          "name": "Race"
+        }
+      ],
+      "country": "Engeland"
+    },
+    {
+      "season": 2020,
+      "round": 5,
+      "raceName": "70e verjaardags GP van Groot-Brittannië",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-07T11:00:00+01:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-07T15:00:00+01:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-08T12:00:00+01:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-08-08T15:00:00+01:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-08-092T15:10:00+01:00",
+          "name": "Race"
+        }
+      ],
+      "country": "Engeland"
+    },
+    {
+      "season": 2020,
+      "round": 6,
+      "raceName": "GP van Spanje",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-14T11:00:00+02:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-14T15:00:00+02:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-15T12:00:00+02:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-08-15T15:00:00+02:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-08-162T15:10:00+02:00",
+          "name": "Race"
+        }
+      ],
+      "country": "Spanje"
+    },
+    {
+      "season": 2020,
+      "round": 7,
+      "raceName": "GP van België",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-28T11:00:00+02:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-28T15:00:00+02:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-08-29T12:00:00+02:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-08-29T15:00:00+02:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-08-302T15:10:00+02:00",
+          "name": "Race"
+        }
+      ],
+      "country": "België"
+    },
+    {
+      "season": 2020,
+      "round": 8,
+      "raceName": "GP van Italië",
+      "calendar": [
+        {
+          "raceType": 0,
+          "timestamp": "2020-09-04T11:00:00+02:00",
+          "name": "Practice 1"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-09-04T15:00:00+02:00",
+          "name": "Practice 2"
+        },
+        {
+          "raceType": 0,
+          "timestamp": "2020-09-05T12:00:00+02:00",
+          "name": "Practice 3"
+        },
+        {
+          "raceType": 1,
+          "timestamp": "2020-09-05T15:00:00+02:00",
+          "name": "Qualifying"
+        },
+        {
+          "raceType": 2,
+          "timestamp": "2020-09-062T15:10:00+02:00",
+          "name": "Race"
+        }
+      ],
+      "country": "Italië"
+    }
+  ]
+}
