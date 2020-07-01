@@ -10,21 +10,21 @@
         "introCopy": [
           {
             "type": "text",
-            "copy": "<b>We zijn allemaal opgewarmd.</b>"
+            "copy": "<b>We zijn allemaal<br>opgewarmd.</b>"
           },
           {
             "type": "chat",
-            "copy": "🏔🇦🇹🏁"
+            "copy": "<emoji_mountain><emoji_austria><emoji_chequered-flag>"
           },
           {
             "type": "chat",
-            "copy": "🏁🏎3️⃣3️⃣💨💨"
+            "copy": "<emoji_chequered-flag><emoji_racing-car><emoji_keycap-3><emoji_keycap-3><emoji_wind><emoji_wind>"
           }
         ],
         "headline": [
           {
             "type": "text",
-            "copy": "Kijk de GP van Oosterijk"
+            "copy": "Kijk de GP van<br>Oosterijk"
           }
         ],
         "copy": [
@@ -40,7 +40,7 @@
           "top": "198px"
         },
         "timerSettings": {
-          "prefix": "<span class='emoji'>🏁</span> Nog ",
+          "prefix": "<emoji_chequered-flag> Nog ",
           "suffix": "",
           "fontSize": "16",
           "top": "15",
