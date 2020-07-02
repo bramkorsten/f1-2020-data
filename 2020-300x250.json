@@ -8,7 +8,11 @@
       "round": 1,
       "copy": {
         "introCopy": [],
-        "headline": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>Oostenrijk"
+          }
+        ],
         "copy": [],
         "ctaCopy": {},
         "timerSettings": {}
@@ -47,6 +51,17 @@
       "season": 2020,
       "round": 2,
       "raceName": "GP van Steiermark",
+      "copy": {
+        "introCopy": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>Steiermark"
+          }
+        ],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
       "calendar": [
         {
           "raceType": 0,
@@ -80,6 +95,17 @@
       "season": 2020,
       "round": 3,
       "raceName": "GP van Hongarije",
+      "copy": {
+        "introCopy": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>Hongarije"
+          }
+        ],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
       "calendar": [
         {
           "raceType": 0,
@@ -113,6 +139,17 @@
       "season": 2020,
       "round": 4,
       "raceName": "GP van Groot-Brittannië",
+      "copy": {
+        "introCopy": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>Engeland"
+          }
+        ],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
       "calendar": [
         {
           "raceType": 0,
@@ -146,6 +183,17 @@
       "season": 2020,
       "round": 5,
       "raceName": "70e verjaardags GP van Groot-Brittannië",
+      "copy": {
+        "introCopy": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>Engeland"
+          }
+        ],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
       "calendar": [
         {
           "raceType": 0,
@@ -179,6 +227,17 @@
       "season": 2020,
       "round": 6,
       "raceName": "GP van Spanje",
+      "copy": {
+        "introCopy": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>Spanje"
+          }
+        ],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
       "calendar": [
         {
           "raceType": 0,
@@ -212,6 +271,17 @@
       "season": 2020,
       "round": 7,
       "raceName": "GP van België",
+      "copy": {
+        "introCopy": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>België"
+          }
+        ],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
       "calendar": [
         {
           "raceType": 0,
@@ -245,6 +315,17 @@
       "season": 2020,
       "round": 8,
       "raceName": "GP van Italië",
+      "copy": {
+        "introCopy": [],
+        "headline": [
+          {
+            "copy": "Kijk de GP van<br>Italië"
+          }
+        ],
+        "copy": [],
+        "ctaCopy": {},
+        "timerSettings": {}
+      },
       "calendar": [
         {
           "raceType": 0,
