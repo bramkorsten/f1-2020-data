@@ -143,7 +143,8 @@
         "introCopy": [],
         "headline": [
           {
-            "copy": "Kijk de GP van Engeland"
+            "copy": "Kijk de GP van Groot-Brittanië",
+            "fontSize": "50px"
           }
         ],
         "copy": [],
@@ -187,7 +188,8 @@
         "introCopy": [],
         "headline": [
           {
-            "copy": "Kijk de GP van Engeland"
+            "copy": "Kijk de GP van Groot-Brittanië",
+            "fontSize": "50px"
           }
         ],
         "copy": [],
