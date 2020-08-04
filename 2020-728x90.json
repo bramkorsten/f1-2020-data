@@ -199,27 +199,27 @@
       "calendar": [
         {
           "raceType": 0,
-          "timestamp": "2020-08-07T11:00:00+01:00",
+          "timestamp": "2020-08-07T11:00:00+02:00",
           "name": "Practice 1"
         },
         {
           "raceType": 0,
-          "timestamp": "2020-08-07T15:00:00+01:00",
+          "timestamp": "2020-08-07T15:00:00+02:00",
           "name": "Practice 2"
         },
         {
           "raceType": 0,
-          "timestamp": "2020-08-08T12:00:00+01:00",
+          "timestamp": "2020-08-08T12:00:00+02:00",
           "name": "Practice 3"
         },
         {
           "raceType": 1,
-          "timestamp": "2020-08-08T15:00:00+01:00",
+          "timestamp": "2020-08-08T15:00:00+02:00",
           "name": "Qualifying"
         },
         {
           "raceType": 2,
-          "timestamp": "2020-08-092T15:10:00+01:00",
+          "timestamp": "2020-08-09T15:10:00+02:00",
           "name": "Race"
         }
       ],
@@ -263,7 +263,7 @@
         },
         {
           "raceType": 2,
-          "timestamp": "2020-08-162T15:10:00+02:00",
+          "timestamp": "2020-08-16T15:10:00+02:00",
           "name": "Race"
         }
       ],
@@ -307,7 +307,7 @@
         },
         {
           "raceType": 2,
-          "timestamp": "2020-08-302T15:10:00+02:00",
+          "timestamp": "2020-08-30T15:10:00+02:00",
           "name": "Race"
         }
       ],
@@ -351,7 +351,7 @@
         },
         {
           "raceType": 2,
-          "timestamp": "2020-09-062T15:10:00+02:00",
+          "timestamp": "2020-09-06T15:10:00+02:00",
           "name": "Race"
         }
       ],
